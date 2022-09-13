@@ -21,5 +21,33 @@
      🥇评估模型
      评估手段：
 
- 
+
+
+    需要哪些库：
+    numpy
+    math
+    file
+    datetime
+    re正则匹配模块
+    pandas处理数据输入输出
+    sys读取系统数据
+    random随机数模块
+    matplotlivb 画图
+    scipy矩阵计算
+    
+    机器学习库
+    sklearn：包含许多分类、回归、聚类、数据降维、模型选择等库
+    OPenCV 图像处理绘图
+    NLTK 自然语言处理领域库
+    Gensim  自然语言处理TF-IDF\word2vec
+    
+    
+    深度学习平台
+    ptorch
+    tensflower
+    pandlepandle
+    
+    安装
+    pip3 or pip
+    conda install file='version_number'
  
